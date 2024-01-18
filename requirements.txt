@@ -1,0 +1,7 @@
+#jupyter
+#ipython
+ipykernel
+numpy
+pandas
+matplotlib
+tensorflow
